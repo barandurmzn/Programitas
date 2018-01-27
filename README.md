@@ -1,2 +1,2 @@
 # Programitas
-Mini programas y code snippets
+Mini programas y code snippets para diversas funciones
